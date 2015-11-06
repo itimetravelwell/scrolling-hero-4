@@ -10,11 +10,6 @@ $(document).ready(function(e){
 
 		var scroll = ( $(window).scrollTop() );
 		$('.hills').css('left', '-' + scroll + 'px')
-		if (scroll).is((>1) {
-			$(body).css()
-
-		}
 	});
 
 });
-
